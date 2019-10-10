@@ -11,11 +11,11 @@ An exercise in making many kinds of DOM manipulation functions.
 
 * A function that takes in a node element and appends it to the `<ul>`.
 * A function that takes in a node element and appends it to the `<div>` with the id "lorem".
-* A function that takes in text and returns an `<li>` with that text as its `innerText`.
+* A function that takes in text and returns a new `<li>` with that text as its `innerText`.
 * A function that takes in an image element and a string and sets that image's source to be that string.
 * A function that takes in two elements and sets the second element's class to the same class as the first.
 * A function that takes in a tag name and an id, makes an element of that type with that id, and returns it.
-* A function that takes in two strings, one representing a color and one representing an id, and sets the thing with that id to have that color for its text.
+* A function that takes in two strings, one representing a color and one representing an id, and sets the element from the dom that has that id to be the given color.
 
 
 # Part 2 - Using Those Functions
